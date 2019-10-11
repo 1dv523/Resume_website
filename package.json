@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/zackkyyy/Resume_website#readme",
   "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
     "express": "^4.17.1",
     "fs": "0.0.1-security",
     "hbs": "^4.0.6",
