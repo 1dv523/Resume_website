@@ -1,18 +1,19 @@
 {
-    "image" : "/stylesheets/edi.jpg",
-    "name"  : "Lars Mikael Gustavsson",
-    "dateOfBirth" : "1985-03-07",
+    "image" : "https://zackkyyy.github.io/img/avatar-min.png",
+    "name"  : "Zacky Kharboutli",
+    "dateOfBirth" : "1990-24-01",
     "title": "Full Stack Java Developer",
     "contacts":{
-        "email" : "lmtgustavsson@gmail.com" ,
-        "phoneNR": "0730246888"
+        "email" : "zacky.kharboutli@se.experis.com" ,
+        "phoneNR": "0768654991"
 },
 
-    "objective" :"Hone my developer skills by coding at a company",
+    "objective" :"To obtain profissional experince to utilize my skills and knowledge to furthur develope my abiblities in the computer science field",
     "languages": 
     [
-        {"name" :"Swedish" , "level" : "Native"},
-        {"name" : "English", "level" :"Fluent "}
+        {"name" :"Swedish" , "level" : "Intermediate"},
+        {"name" : "English", "level" :"Fluent "},
+        {"name" : "Arabic" , "level":"Nativ"}
     ],
 
     "skills": 
@@ -23,20 +24,21 @@
         {"name" : "Back end", "level" : " expert"},
         {"name" : "Databases" , "level" : "begginer "},
         {"name" : "API", "level" : " expert"},
-        {"name" :"Java" , "level" : "begginer "},
-        {"name" : "Java script", "level" : " expert"},
-        {"name" :"NodeJs" , "level" : "begginer "},
-        {"name" : "Back end", "level" : " expert"},
-        {"name" :"Databases" , "level" : "begginer "},
-        {"name" : "API", "level" : " expert"}
+        {"name" :"Software Design" , "level" : "begginer "},
+        {"name" : "Mongoose", "level" : " expert"},
+        {"name" :"HTTP" , "level" : "begginer "},
+        {"name" : "Spring", "level" : " expert"},
+        {"name" :"Object Oriented " , "level" : "begginer "},
+        {"name" : "MongoDB", "level" : " expert"}
     ],
 
     "interests" : 
     [
-        {"name": "running" }
+        {"name": "running" },
+        {"name":"gaming"}
     ],
 
-    "address": "address växjö 32413",
+    "address": "Gardesvägen 57 Hässleholm",
    
     "experince" : [
         {
@@ -44,23 +46,7 @@
             "endDate": "now",
             "position":"Fullstack Java developer",
             "employer":"Experis Academy",
-            "workDescription":" this what i have done",
-            "location": "Sweden"
-        },
-        {
-            "startDate":"2019",
-            "endDate": "now",
-            "position":"Fullstack Java developer",
-            "employer":"Experis Academy",
-            "workDescription":" this what i have done",
-            "location": "Sweden"
-        },
-        {
-            "startDate":"2019",
-            "endDate": "now",
-            "position":"Fullstack Java developer",
-            "employer":"Experis Academy",
-            "workDescription":" this what i have done",
+            "workDescription":"Software development Consultant",
             "location": "Sweden"
         }
     ]
@@ -70,25 +56,17 @@
         {
             "startDate":"2016",
             "endDate": "2019",
-            "subject":"Software eng",
+            "subject":"Software Technology",
             "university":"Linneaus University ",
             "description":"Software developement and Engineering courses ",
             "location": "Sweden"
         },
         {
-            "startDate":"2016",
-            "endDate": "2019",
-            "subject":"Software eng",
-            "university":"Linneaus University ",
-            "description":"Software developement and Engineering courses ",
-            "location": "Sweden"
-        },
-        {
-            "startDate":"2016",
-            "endDate": "2019",
-            "subject":"Software eng",
-            "university":"Linneaus University ",
-            "description":"Software developement and Engineering courses ",
+            "startDate":"2007",
+            "endDate": "2010",
+            "subject":"Mechanical Engineering",
+            "university":"Aleppo University ",
+            "description":"Textil machines engineering \n Studied three years out of five",
             "location": "Sweden"
         }
     ],
@@ -100,11 +78,18 @@
         },
     "projects" : [
         {
-            "title": "project title",
-            "date" : "2019",
-            "description" : " project description",
-            "technologies" : ["java script" , "html" , "css "],
+            "title": "Taxi Service Website - France Annecy 2018",
+            "date" : "2018",
+            "description" : " A project that was involved in web programming course in France",
+            "technologies" : ["java script" , "php" , "mongoDB " , "Html" ,"Css"],
             "link" : "/"
+        },
+        {
+            "title": "Hotel Management System  - France Annecy 2018",
+            "date" : "2018",
+            "description" : " Desktop application to assest cleckrs in making reservations",
+            "technologies" : ["java" , "JavaFx" , "mongoDB " ,"Css"],
+            "link" : "https://github.com/zackkyyy/FrontDisk-Manager"
         }
     ]
 }
