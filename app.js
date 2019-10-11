@@ -9,10 +9,8 @@ app.set('view engine', 'hbs')
 
 app.use(express.static(path.join(__dirname, 'public')))
 
-app.use('/hey' , indexRouter)
-// app.get('/', function(req, res) {
-  res.send("Zacky")
-})
+app.use('/' , indexRouter)
+
 
 // error handling
 app.use(function(req, res, next) {
