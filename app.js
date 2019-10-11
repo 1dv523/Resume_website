@@ -28,4 +28,4 @@ app.use(function(req, res, next) {
     res.render('error');
   });
 
-  app.listen(NODE_ENV=production|| 8080, () => console.log('Server ready'))
+  app.listen(process.env.PORT || 8080, () => console.log('Server ready'))
