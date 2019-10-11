@@ -27,7 +27,7 @@ body {
 }
 
 img{
-    max-width: 140px;
+    max-width: 60%;
 }
 
 
@@ -141,9 +141,12 @@ body>section section {
 
 .sections {
     text-align: center;
-    margin:3em 0 1em 0;
+    margin:2em 0 1em 0;
 }
 
+.navbar{
+    padding: 0.5rem 5rem;
+}
 .sections li {
     display:inline-block;
     margin:0 1em;
@@ -228,6 +231,9 @@ section a {
   }
 
 */
+#naviDown{
+padding: 0.5rem 5rem;
+}
   #naviUp{
       display: none;
   }
