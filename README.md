@@ -1,7 +1,7 @@
 # Resume Viewer
 
 NodeJs Application to view a resume with Bootstrap and CSS design.
-Deployed on heroku [zackycv.herokuapp.com](zackycv.herokuapp.com)
+Deployed on heroku [zackycv.herokuapp.com](https://zackycv.herokuapp.com/)
 
 
 ## Installation
